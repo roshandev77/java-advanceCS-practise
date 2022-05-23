@@ -1,0 +1,68 @@
+
+Control Flow
+
+if-else statement
+
+if-else-if
+
+for loop
+
+while loop
+
+do while
+
+if - else:
+
+Sysntax:
+
+if (condtion) {
+ do something
+} else {
+ something
+}
+
+
+Pseudo code:
+
+A ---> more 90%
+
+B ---> more 75 and less than 90
+
+c ---> more than 60 and less than 75
+
+
+Loop --> It will iterate you to a certain conditon
+
+if you want to print the number not greater than 11 from 1
+
+var index = 1
+
+increment as well that particular index
+
+while loop
+
+
+Syntax:
+
+while (condition) {
+do something
+
+increment the value as well
+}
+
+for (init; condition; increment)
+
+
+continue; -->  it skip the current iteration and heads to the next one
+break statement  --> it exit from the loop
+
+
+
+
+
+
+
+
+
+
+

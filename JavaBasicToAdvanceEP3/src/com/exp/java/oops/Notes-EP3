@@ -1,0 +1,39 @@
+
+Class --> A class is a user defined blueprint or prototype from which objects are created
+      --> Access Modifiers
+      --> class keyword
+      --> Super Class
+      --> Interfaces
+      --> Body
+
+      Syntax:
+
+      <modifiers> class <ClassName> {
+
+
+      }
+
+      default
+      public
+      private
+      protected
+
+      ShoppingMall --> concept
+
+      Bigbazar
+      D-mart
+      Rel trend
+
+
+
+Object --> It is a basic unit of Object-Oriented Programming and represents the real life entities.
+           A typical Java program creates many objects, which as you know, interact by invoking methods.
+
+An object consists of :
+       --> State: It is represented by attributes of an object. It also reflects the properties of an object.
+       --> Behavior: It is represented by methods of an object. It also reflects the response of an object with other objects.
+       --> Identity: It gives a unique name to an object and enables one object to interact with other objects.
+
+
+
+       Param Constructor --> It is defined by the programmer and pass some argument in it.

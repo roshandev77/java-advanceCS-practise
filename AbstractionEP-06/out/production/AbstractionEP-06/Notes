@@ -1,0 +1,29 @@
+
+Abstraction --> It is the process of display only essential things/ relevant things,
+
+TV - TV remote
+
+We can achieve the abstraction with the help of
+
+--> abstract class
+
+--> Interface
+
+Abstract class
+
+abstract method -->
+abstract --keyword
+
+An abstract class can also have a concrete method
+Syntax:
+
+ abstract  class <Class_Name> {
+ abstract public <return Type> <name>();
+
+
+ }
+
+ class Shape (Parent ) --> extends two class i.e. circle and rectangle
+
+
+

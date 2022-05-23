@@ -1,0 +1,17 @@
+
+Encapsulation --> process of wrapping up the data and the member methods
+
+Why we do this --> We do this for security purposes
+
+We achieve Encap --> by making data member / properties as private
+
+and we access these properties using public methods
+
+private price_laptop;
+
+public void getPrice() {
+validations here
+
+if the person is admin then he can get the price or chnage the price and many validations they can keep
+return the price
+}
